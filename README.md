@@ -1,8 +1,8 @@
-# 捷径👋
+# 捷径👋📫
 
 我搜集的各种有趣的网站：https://github.com/mzky/interesting
 
-## 开发的小工具
+## 开发的小工具😄
 
 基于nmon的linux监控项目：https://github.com/mzky/easyNmon
 
@@ -19,7 +19,7 @@ python生成随机字符、中英文用户名、手机号、身份证等：https
 汉化包：https://github.com/rescuezilla/rescuezilla/issues/191
 
 
-### jmeter📫
+### jmeter
 
 4.x报告汉化：https://github.com/mzky/jmeter4.x-cn-report-template
 
@@ -36,3 +36,6 @@ python生成随机字符、中英文用户名、手机号、身份证等：https
 go的zip库使用例子：https://github.com/mzky/zip
 
 go的download例子：https://github.com/mzky/download
+
+
+
