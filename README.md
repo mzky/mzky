@@ -25,7 +25,7 @@ python生成随机字符、中英文用户名、手机号、身份证等：https
 
 4.x报告汉化：https://github.com/mzky/jmeter4.x-cn-report-template
 
-5.x报告汉化：https://github.com/mzky/jmeter4.x-cn-report-template
+5.x报告汉化：https://github.com/mzky/jmeter5.x-cn-report-template
 
 
 ## 参与的项目👯
