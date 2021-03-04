@@ -2,6 +2,8 @@
 
 我搜集的各种有趣的网站：https://github.com/mzky/interesting
 
+我的gitee：https://gitee.com/mzky
+
 ## 开发的小工具😄
 
 基于nmon的linux监控项目：https://github.com/mzky/easyNmon
