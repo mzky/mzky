@@ -20,6 +20,7 @@ Go语言爱好者周刊：https://github.com/polaris1119/golangweekly
 
 Go语言笔记：https://github.com/overnote/over-golang
 
+Hacker News：https://news.ycombinator.com/newest
 
 ## 开发的小工具😄
 
