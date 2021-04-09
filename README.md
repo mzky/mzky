@@ -1,8 +1,25 @@
-# 捷径👋📫
-
-我搜集的各种有趣的网站：https://github.com/mzky/interesting
+# 收藏夹📫
 
 我的gitee：https://gitee.com/mzky
+
+搜集的各种有趣的网站：https://github.com/mzky/interesting
+
+掘金翻译计划：https://github.com/xitu/gold-miner
+
+### 日报 & 周刊👋
+
+科技爱好者周刊：https://github.com/ruanyf/weekly
+
+Go语言爱好者周刊：https://github.com/polaris1119/golangweekly
+
+老黄的周刊：https://github.com/bingoohuang/weekly
+
+技术文档：https://github.com/doocs/leetcode
+
+大前端笔记：https://github.com/overnote/over-javascript
+
+Go语言笔记：https://github.com/overnote/over-golang
+
 
 ## 开发的小工具😄
 
