@@ -38,8 +38,10 @@ python生成随机字符、中英文用户名、手机号、身份证等：https
 备份还原工具：https://github.com/rescuezilla/rescuezilla
 
 ### syncthing
-P2P文件同步工具：https://www.transifex.com/syncthing/syncthing/translate/#zh_CN/gui/68577267 
 https://github.com/syncthing/syncthing
+
+P2P文件同步工具：https://www.transifex.com/syncthing/syncthing/translate/#zh_CN/gui/68577267 
+
 
 ### freedombox
 一套加密通信系统：https://hosted.weblate.org/projects/freedombox/freedombox/zh_Hans/
