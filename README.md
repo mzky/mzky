@@ -40,6 +40,8 @@ python生成随机字符、中英文用户名、手机号、身份证等：https
 P2P文件同步工具：https://www.transifex.com/syncthing/syncthing/translate/#zh_CN/gui/68577267 
 （https://github.com/syncthing/syncthing）
 
+freedombox：https://hosted.weblate.org/projects/freedombox/freedombox/zh_Hans/
+
 ### jmeter
 
 4.x报告汉化：https://github.com/mzky/jmeter4.x-cn-report-template
