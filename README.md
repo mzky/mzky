@@ -22,6 +22,8 @@ Go语言笔记：https://github.com/overnote/over-golang
 
 Hacker News：https://news.ycombinator.com/newest
 
+Ben E. C. Boyter's Blog：https://boyter.org/
+
 ## 开发的小工具😄
 
 基于nmon的linux监控项目：https://github.com/mzky/easyNmon
