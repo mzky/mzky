@@ -32,6 +32,7 @@ Ben E. C. Boyter's Blog：https://boyter.org/
 
 python生成随机字符、中英文用户名、手机号、身份证等：https://github.com/mzky/profaker
 
+自签TLS证书：https://github.com/mzky/tls
 
 ## 中文化的努力🌱
 
