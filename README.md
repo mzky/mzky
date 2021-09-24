@@ -48,10 +48,6 @@ https://github.com/syncthing/syncthing
 P2P文件同步工具：https://www.transifex.com/syncthing/syncthing/translate/#zh_CN/gui/68577267 
 
 
-### freedombox
-一套加密通信系统：https://hosted.weblate.org/projects/freedombox/freedombox/zh_Hans/
-
-
 ### jmeter
 
 4.x报告汉化：https://github.com/mzky/jmeter4.x-cn-report-template
