@@ -2,7 +2,7 @@
 
 我的gitee：https://gitee.com/mzky
 
-搜集的各种有趣的网站：https://github.com/mzky/interesting
+各种有趣的网站：https://github.com/mzky/interesting
 
 My Blog：http://mzky.cc
 
