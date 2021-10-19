@@ -4,26 +4,6 @@
 
 搜集的各种有趣的网站：https://github.com/mzky/interesting
 
-掘金翻译计划：https://github.com/xitu/gold-miner
-
-## 收藏夹--日报 & 周刊👋
-
-科技爱好者周刊：https://github.com/ruanyf/weekly
-
-Go语言爱好者周刊：https://github.com/polaris1119/golangweekly
-
-老黄的周刊：https://github.com/bingoohuang/weekly
-
-技术文档：https://github.com/doocs/leetcode
-
-大前端笔记：https://github.com/overnote/over-javascript
-
-Go语言笔记：https://github.com/overnote/over-golang
-
-Hacker News：https://news.ycombinator.com/newest
-
-Ben E. C. Boyter's Blog：https://boyter.org/
-
 ## 开发的小工具😄
 
 基于nmon的linux监控项目：https://github.com/mzky/easyNmon
@@ -33,6 +13,8 @@ Ben E. C. Boyter's Blog：https://boyter.org/
 python生成随机字符、中英文用户名、手机号、身份证等：https://github.com/mzky/profaker
 
 自签TLS证书：https://github.com/mzky/tls
+
+模拟服务端提供服务：https://github.com/mzky/tcpSimulator
 
 ## 中文化的努力🌱
 
