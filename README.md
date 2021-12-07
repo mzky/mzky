@@ -54,7 +54,7 @@ go的download例子：https://github.com/mzky/download
 
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=mzky&layout=compact)
 
-能够写东西的语言：go、java、python、lua、aaudio、js
+能够写东西的语言：go、java、python、lua、aardio、js
 
 无法写东西但可以修改的语言：c#、php
 
