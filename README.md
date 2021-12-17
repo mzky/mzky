@@ -38,6 +38,7 @@ P2P文件同步工具：https://www.transifex.com/syncthing/syncthing/translate/
 
 5.x报告汉化：https://github.com/mzky/jmeter5.x-cn-report-template
 
+5.1优化版：https://github.com/mzky/Jmeter-Extension
 
 ## 参与的项目👯
 
