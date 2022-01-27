@@ -51,11 +51,13 @@ go的zip库使用例子：https://github.com/mzky/zip
 
 go的download例子：https://github.com/mzky/download
 
+跨平台浏览器demo：https://github.com/mzky/gobrowser
+
 
 
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=mzky&layout=compact)
 
-能够写东西的语言：go、java、python、lua、aardio、js
+能够写东西的语言：Go、Java、Python、Lua、Aardio、Js
 
-无法写东西但可以修改的语言：c#、php
+无法写东西但可以修改的语言：C#、PHP
 
