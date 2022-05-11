@@ -57,7 +57,5 @@ go的download例子：https://github.com/mzky/download
 
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=mzky&layout=compact)
 
-能够独立写东西的语言：Go、Java、Python、Lua、Aardio、Js
 
-可以修改代码的语言：C#、PHP
 
