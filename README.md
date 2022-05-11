@@ -57,5 +57,7 @@ go的download例子：https://github.com/mzky/download
 
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=mzky&layout=compact)
 
+![Readme Card](https://github-readme-stats.vercel.app/api?username=mzky&show_icons=true&theme=dark)
+
 
 
