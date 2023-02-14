@@ -16,7 +16,7 @@ python生成随机字符、中英文用户名、手机号、身份证等：https
 
 自签TLS证书：https://github.com/mzky/tls
 
-模拟服务端提供服务：https://github.com/mzky/tcpSimulator
+模拟TCP/UDP服务测试工具：https://github.com/mzky/tcpSimulator
 
 ## 中文化的努力🌱
 
