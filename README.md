@@ -10,8 +10,6 @@ My Blog：http://mzky.cc
 
 基于nmon的linux监控项目：https://github.com/mzky/easyNmon
 
-高度集成的单文件linux监控项目（暂停开发）：https://github.com/mzky/mesro
-
 python生成随机字符、中英文用户名、手机号、身份证等：https://github.com/mzky/profaker
 
 自签TLS证书：https://github.com/mzky/tls
