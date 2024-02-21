@@ -12,8 +12,6 @@ My Blog：http://mzky.cc
 
 python生成随机字符、中英文用户名、手机号、身份证等：https://github.com/mzky/profaker
 
-自签TLS证书：https://github.com/mzky/tls
-
 模拟TCP/UDP服务测试工具：https://github.com/mzky/tcpSimulator
 
 将bilibili缓存的m4s转成mp4：https://github.com/mzky/m4s-converter
