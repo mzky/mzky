@@ -51,6 +51,11 @@ go的download例子：https://github.com/mzky/download
 
 跨平台浏览器demo：https://github.com/mzky/gobrowser
 
+windows浏览器：
+
+https://github.com/mzky/go-webview2
+
+https://github.com/mzky/blink
 
 
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=mzky&layout=compact&theme=dark&hide=HTML,Batchfile,Less,CSS)
