@@ -45,8 +45,6 @@ go的zip库使用例子：https://github.com/mzky/zip
 go的download例子：https://github.com/mzky/download
 
 
-![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=mzky&layout=compact&theme=dark&hide=HTML,Batchfile,Less,CSS)
-
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=mzky&show_icons=true&theme=dark)
 
 
