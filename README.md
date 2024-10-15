@@ -16,7 +16,7 @@ python生成随机字符、中英文用户名、手机号、身份证等：https
 
 将bilibili缓存的m4s转成mp4：https://github.com/mzky/m4s-converter
 
-## 中文化的努力🌱
+## 汉化支持🌱
 
 ### rescuezilla
 https://github.com/rescuezilla/rescuezilla
@@ -38,10 +38,6 @@ P2P文件同步工具：https://www.transifex.com/syncthing/syncthing/translate/
 
 5.1优化版：https://github.com/mzky/Jmeter-Extension
 
-## 参与的项目👯
-
-一个go的日志库：https://github.com/bingoohuang/golog
-
 
 ## 一些实例⚡
 
@@ -49,9 +45,8 @@ go的zip库使用例子：https://github.com/mzky/zip
 
 go的download例子：https://github.com/mzky/download
 
-跨平台浏览器demo：https://github.com/mzky/gobrowser
 
-windows浏览器：
+#### 嵌入浏览器：
 
 https://github.com/mzky/go-webview2
 
