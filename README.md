@@ -4,7 +4,6 @@
 
 各种有趣的网站：https://github.com/mzky/interesting
 
-My Blog：http://mzky.cc
 
 ## 开发的小工具😄
 
@@ -44,13 +43,6 @@ P2P文件同步工具：https://www.transifex.com/syncthing/syncthing/translate/
 go的zip库使用例子：https://github.com/mzky/zip
 
 go的download例子：https://github.com/mzky/download
-
-
-#### 嵌入浏览器：
-
-https://github.com/mzky/go-webview2
-
-https://github.com/mzky/blink
 
 
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=mzky&layout=compact&theme=dark&hide=HTML,Batchfile,Less,CSS)
