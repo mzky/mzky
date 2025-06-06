@@ -20,7 +20,7 @@ python生成随机字符、中英文用户名、手机号、身份证等：https
 ### rescuezilla
 https://github.com/rescuezilla/rescuezilla
 
-系统备份还原工具：https://hosted.weblate.org/projects/rescuezilla/rescuezilla/zh_Hans/
+系统备份还原工具：https://hosted.weblate.org/projects/rescuezilla
 
 
 ### syncthing
