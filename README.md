@@ -26,8 +26,7 @@ https://github.com/rescuezilla/rescuezilla
 ### syncthing
 https://github.com/syncthing/syncthing
 
-P2P文件同步工具：[https://hosted.weblate.org/translate/syncthing/](https://hosted.weblate.org/translate/syncthing/)
-
+P2P文件同步工具：https://hosted.weblate.org/projects/syncthing
 
 ### jmeter
 
